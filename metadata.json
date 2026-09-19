@@ -1,0 +1,6 @@
+{
+  "name": "MapLead Scraper",
+  "description": "Chrome extension and lead generation tool that directly scrapes Google Maps DOM for businesses without websites and exports leads to CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
